@@ -1,6 +1,8 @@
 # TranslationService [v0.1]
 A plugin to use TranslationServer inside the editor, useful for plugins
 
+**Note: There's a bug that may not let you export your game. Please see issues**
+
 ## Installation
 To install this plugin, download it as ZIP archive. Copy the `addons` folder to the root of your project.
 
